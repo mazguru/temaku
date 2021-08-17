@@ -1,9 +1,9 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
+title = "Newpost"
 description = ""
-date = {{ .Date }}
+date = 2021-08-17T22:17:18+07:00
 featured = false
-draft = true
+draft = false
 comment = true
 toc = true
 reward = true
@@ -16,3 +16,5 @@ tags = [
 series = []
 images = []
 +++
+
+Ikuti aku yaa
